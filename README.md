@@ -1,4 +1,4 @@
-# Proyek Tiket Event Web
+# Proyek Tiket Event Webku
 
 ## Prasyarat
 
